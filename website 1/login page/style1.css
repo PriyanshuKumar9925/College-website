@@ -14,9 +14,10 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
 }
-.login-container h2 {
+ h2 {
     margin-bottom: 20px;
-    color: #33333300;
+    text-align: center;
+    color: #000000;
 }
 .login-container input[type="text"],
 .login-container input[type="password"] {
