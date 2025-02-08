@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-   background-color: #a5aaa7;
+   background-color: #86cece;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 .login-container {
-    background-color: #7e7d7d;
+    background-color: #91bee7;
     padding: 40px;
     border-radius: 40px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -24,7 +24,7 @@ body {
     width: 100%;
     padding: 9px;
     margin: 7px 0;
-    border: 1px solid #db1616;
+    border: 1px solid #03859c;
     border-radius: 48px;
 }
 .login-container button {
