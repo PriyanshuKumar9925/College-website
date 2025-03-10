@@ -30,13 +30,13 @@ body {
 .login-container button {
     width: 100%;
     padding: 10px;
-    background-color: #0676ec;
+    background-color: #56a2f3;
     border: none;
     border-radius: 48px;
-    color: #000000;
+    color: #ffffff;
     font-size: 20px;
     cursor: pointer;
 }
 .login-container button:hover {
-    background-color: #059629;
+    background-color: #130596;
 }
